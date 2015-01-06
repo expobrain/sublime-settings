@@ -1,6 +1,14 @@
 {
-	"font_size": 9,
-	"rulers": [79],
-    "ensure_newline_at_eof_on_save": true,
-    "trim_trailing_white_space_on_save": true,
+	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/Afterglow.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		79
+	],
+	"trim_trailing_white_space_on_save": true
 }
