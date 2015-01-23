@@ -1,7 +1,8 @@
 {
-	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/Afterglow.tmTheme",
+	"color_scheme": "Packages/User/Afterglow (Flake8Lint).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 12,
+	"font_face": "Monaco",
 	"ignored_packages":
 	[
 		"Vintage"
