@@ -1,8 +1,9 @@
 {
-	"color_scheme": "Packages/User/Afterglow (Flake8Lint).tmTheme",
+	"color_scheme": "Packages/User/Flat (Flake8Lint).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 12,
 	"font_face": "Monaco",
+	"font_size": 12,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -11,5 +12,6 @@
 	[
 		79
 	],
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"translate_tabs_to_spaces": true
 }
