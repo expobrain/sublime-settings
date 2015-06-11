@@ -1,0 +1,19 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Colorsublime",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"JsFormat",
+		"JSHint",
+		"LiveScript",
+		"Markdown Preview",
+		"Package Control",
+		"Pretty JSON",
+		"Python Flake8 Lint",
+		"Syntax Highlighting for Sass"
+	]
+}
